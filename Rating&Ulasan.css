@@ -580,5 +580,6 @@ hr {
     }
     .navbar-toggler {
         margin-left: 81%;
+        height: 40px;
     }
 }
