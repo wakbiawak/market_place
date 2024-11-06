@@ -340,7 +340,8 @@ hr {
         margin-top: -4.3%;
     }
     .bg-succes {
-        margin-left: 42.5%;
+/*         margin-left: 42.5%; */
+        display: none;
     }
     .container-fluid img {
         margin-left: 6%;
