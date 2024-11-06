@@ -580,7 +580,7 @@ hr {
 }
 @media (max-width: 345px) {
     .container-fluid {
-        width: 83%;
+        width: 92%;
         margin-left: 4%;
     }
     .container-fluid img {
