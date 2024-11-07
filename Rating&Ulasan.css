@@ -13,7 +13,7 @@
 }
 .navbar-nav {
     width: 97%;
-    padding-right: 1%;
+    margin-left: 2%;
 }
 .toko_desa {
     color: #5DC3B2;
@@ -23,6 +23,7 @@
     height: 52px;
     background-color: #5DC3B2;
     border-radius: 50px;
+    margin-left: 2%;
     border: 1px solid #5DC3B2;
 } 
 button {
@@ -560,7 +561,7 @@ hr {
         margin-left: 81%;
     }
     .navbar-toggler {
-        margin-left: 81%;
+        margin-left: 83.5%;
         margin-top: -10.8%;
     }
 }
