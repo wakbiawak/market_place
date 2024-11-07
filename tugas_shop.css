@@ -15,8 +15,7 @@ body {
 }
 .navbar-nav {
     width: 97%;
-    padding-right: 1%;
-    gap: 5.2%;
+    margin-left: 2%;
 }
 .toko_desa {
     color: #5DC3B2;
@@ -26,6 +25,7 @@ body {
     height: 52px;
     background-color: #5DC3B2;
     border-radius: 50px;
+    margin-left: 2%;
     border: 1px solid #5DC3B2;
 }
 button {
